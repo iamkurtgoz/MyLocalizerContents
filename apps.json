@@ -1,0 +1,8 @@
+{
+    "apps": [
+        {
+            "name": "NewFootWordle",
+            "file_name": "new_footwordle_localization.json"
+        }
+    ]
+}
