@@ -1,0 +1,1278 @@
+{
+  "keys" : [
+    {
+      "description" : "",
+      "id" : "alreadyExistPermissionGrantException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bu izin yetkilendirmesi zaten mevcut"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "alreadyExistResetPasswordCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodu zaten mevcut"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "alreadyExistsEmailException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "E-posta zaten kayıtlı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "alreadyExistsUserNameException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı adı zaten kayıtlı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "anyErrorMessage",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bir şeyler ters gitti"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "appName",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "FootWordle"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonBackButton",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Önceki"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonCameraButtonTitle",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kamera"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonCancel",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İptal"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonContinue",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Devam Et"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonContinueWithFacebookAccount",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Facebook ile devam edin"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonContinueWithGoogleAccount",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Google ile devam edin"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonDiscoverApplication",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Uygulamayı Keşfet"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonFinish",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bitir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonGalleryButtonTitle",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Galeri"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonLetsStartNow",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Hemen Başlayalım"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonLoginButton",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Giriş Yap"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonLoginWithEmailAddress",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "E-mail adresinle giriş yap"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonNextButton",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Sonraki"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonOk",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Tamam"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonPrivacyPolicy",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Gizlilik Koşulları"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonRegisterButton",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kayıt Ol"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonSendOtpCode",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Doğrulama Kodu Gönder"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonSendOtpCodeAgain",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kodu Yeniden Gönder"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonSendResetPasswordMail",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Sıfırlama Maili Gönder"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonSettings",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Ayarlar"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonSignInWithEmail",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Email ile Giriş Yap"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonSignInWithGoogle",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Google ile Giriş Yap"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonTerms",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanım koşulları"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonTry",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Dene"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonUpdate",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Güncelle"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "buttonValidatePhoneNumber",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Numaranı Doğrula"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "debugSettingsAppSettings",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Uygulama Ayarları"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "debugSettingsClickForCopy",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kopyalamak için tıklayın"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "debugSettingsClickForOpenAppSettings",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Uygulama ayarlarını açmak için tıklayın"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "debugSettingsClickForOpenDeveloperSettings",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geliştirici ayarlarını açmak için tıklayın"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "debugSettingsDeveloperSettings",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geliştirici Ayarları"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "debugSettingsFirebaseToken",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Firebase Token"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "debugSettingsHostUrl",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Sunucu Adresi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "debugSettingsToolbarTitle",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Debug Ayarları"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "emailAddressNotMatchedException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "E-posta adresi hesabınızla eşleşmiyor"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "errorBodyException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Hatalı istek gönderildi. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "errorRequestNotSuccessException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İstek başarısız oldu. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "fileCouldNotBeCreatedException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Dosya oluşturulamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "forbiddenException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İzniniz yok"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "incorrectPasswordConfirmation",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre uyuşmadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "incorrectPasswordOrEmailException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre veya e-posta hatalı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "incorrectUserLoginGenericCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Giriş kodu hatalı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidCreatedDateException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz oluşturulma tarihi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidEmailException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz e-posta adresi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidFileNameException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz dosya adı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidLocalizationValueException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz yerelleştirme değeri"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidMimeTypeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz MIME türü"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidPasswordException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre yanlış"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidResetPasswordCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz şifre sıfırlama kodu"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUpdatedDateException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz güncelleme tarihi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUploadMediaFileMaxCountException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Yüklenebilecek maksimum medya dosyası sayısı aşıldı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUploadMediaFileMaxSizeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Yüklenebilecek maksimum medya dosyası boyutu aşıldı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUserInformationNameException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz kullanıcı bilgi adı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUserNameException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Geçersiz kullanıcı adı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "methodNotAllowed",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bu yönteme izin verilmiyor"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "networkConnectionCheck",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bağlantı hatası. Lütfen bağlantınızı kontrol edin!"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "noConnectivityException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İnternet bağlantısı bulunamadı. Lütfen bağlantınızı kontrol edin."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundAccessTokenException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Token bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundBlobFileException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Blob dosyası bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundBucketNameException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bucket adı bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundClientException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İstemci bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundEmailException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "E-posta bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundEnumerationItemException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Sıralama öğesi bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundFileContentException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Dosya içeriği bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundIpAddressException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Ip adres bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundMediaFileException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Medya dosyası bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundPasswordResetCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodu bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundPermissionException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İzin bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundPermissionGrantException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İzin yetkilendirmesi bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundRefreshTokenException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Yenileme belirteci bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundRoleException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Rol bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundSettingException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Ayar bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundUserException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundUserLoginWithEmailGenericCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "E-posta giriş kodu bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundUserNameException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı adı bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notMatchAccessTokenException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Yenileme belirteci eşleşmiyor"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "nullException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "nullableException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İstek sonucu başarısız oldu. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "repairModeDescription",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Uygulamada bazı değişiklikler yapıyoruz veya test ediyoruz. Anlayışınız için teşekkürler. Lütfen daha sonra tekrar deneyin."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "repairModeTitle",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bakımdayız.."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredAccessTokenException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Token gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredEmailException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "E-posta gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredPasswordException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredPasswordSaltException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre salt değeri gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredPermissionTypeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İzin türü gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredRoleCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Rol kodu gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredRoleException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Rol gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUploadFileItemException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Yüklenecek dosya gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUserException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUserNameException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı adı gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUserPermissionException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı izni gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUserRoleException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı rolü gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "resetPasswordCodeExpiredException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodunun süresi doldu"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "settingsKeyAlreadyExistException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Ayar anahtarı zaten mevcut"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "somethingWentWrong",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "storageSpaceErrorException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Depolama hizmeti hatası"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "success",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Success"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "timeFilterDayAgo",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "%d gün önce"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "timeFilterHourAgo",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "%d saat önce"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "timeFilterMinuteAgo",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "%d dakika önce"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "timeFilterMonthAgo",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "%d ay önce"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "timeFilterWeekAgo",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "%d hafta önce"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "timeFilterYearAgo",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "%d yıl önce"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "timeJustNow",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Az önce"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooLongPasswordException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre çok uzun"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooLongPasswordResetCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodu çok uzun"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooLongRoleCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Rol kodu çok uzun"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooLongUserLoginWithEmailGenericCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "E-posta giriş kodu çok uzun"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooShortPasswordException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre çok kısa"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooShortPasswordResetCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodu çok kısa"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooShortUserLoginWithEmailGenericCodeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "E-posta giriş kodu çok kısa"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "unsupportedMediaFileTypeException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Desteklenmeyen medya dosya türü"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "updateAvailableMessage",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Lütfen devam etmek için uygulamayı güncelleyin"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "updateAvailableTitle",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Güncelleme Mevcut"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "userBlockedException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı engellendi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "userCreditNotEnoughException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı kredisi yetersiz"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "userIsNotActiveException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı aktif değil"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "userLoginGenericCodeExpiredException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı giriş kodunun süresi doldu"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "warning",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Uyarı"
+      }
+    }
+  ],
+  "languages" : [
+    {
+      "code" : "tr",
+      "isDefault" : true,
+      "name" : "Turkish"
+    }
+  ],
+  "meta" : {
+    "createdAt" : "2025-11-20T18:11:02Z",
+    "defaultLanguageCode" : "tr",
+    "updatedAt" : "2025-11-20T20:45:25Z"
+  },
+  "projectId" : "footwordle",
+  "projectName" : "Footwordle"
+}
