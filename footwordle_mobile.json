@@ -1,7 +1,7 @@
 {
   "keys" : [
     {
-      "description" : "",
+      "description" : "Herhangi bir hata mesajı için kullanılır.",
       "id" : "anyErrorMessage",
       "tags" : [
 
@@ -11,7 +11,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "Uygulama adı",
       "id" : "appName",
       "tags" : [
 
@@ -380,7 +380,6 @@
         "tr" : "İnternet bağlantısı bulunamadı. Lütfen bağlantınızı kontrol edin."
       }
     },
-    
     {
       "description" : "",
       "id" : "repairModeDescription",
@@ -401,7 +400,6 @@
         "tr" : "Bakımdayız.."
       }
     },
-    
     {
       "description" : "",
       "id" : "somethingWentWrong",
@@ -412,7 +410,6 @@
         "tr" : "Bir şeyler ters gitti. Lütfen tekrar deneyin."
       }
     },
-    
     {
       "description" : "",
       "id" : "success",
@@ -534,7 +531,7 @@
   "meta" : {
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
-    "updatedAt" : "2025-11-21T08:18:23Z"
+    "updatedAt" : "2025-11-21T08:46:41Z"
   },
   "projectId" : "footwordle_mobile",
   "projectName" : "Footwordle"
