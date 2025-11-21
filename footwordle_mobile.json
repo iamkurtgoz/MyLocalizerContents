@@ -21,7 +21,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "Geri butonu",
       "id" : "buttonBackButton",
       "tags" : [
 
@@ -31,7 +31,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "Kamera",
       "id" : "buttonCameraButtonTitle",
       "tags" : [
 
@@ -41,7 +41,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "iptal butonu",
       "id" : "buttonCancel",
       "tags" : [
 
@@ -51,7 +51,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "devam butonu",
       "id" : "buttonContinue",
       "tags" : [
 
@@ -61,7 +61,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "facebook ile devam et butonu",
       "id" : "buttonContinueWithFacebookAccount",
       "tags" : [
 
@@ -71,7 +71,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "google ile devam et butonu",
       "id" : "buttonContinueWithGoogleAccount",
       "tags" : [
 
@@ -81,7 +81,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "keşfet butonu",
       "id" : "buttonDiscoverApplication",
       "tags" : [
 
@@ -91,7 +91,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "bitir butonu",
       "id" : "buttonFinish",
       "tags" : [
 
@@ -101,7 +101,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "galeri butonu",
       "id" : "buttonGalleryButtonTitle",
       "tags" : [
 
@@ -111,7 +111,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "hemen başla butonu",
       "id" : "buttonLetsStartNow",
       "tags" : [
 
@@ -121,7 +121,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "giriş yap butonu",
       "id" : "buttonLoginButton",
       "tags" : [
 
@@ -131,7 +131,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "email ile giriş yap butonu",
       "id" : "buttonLoginWithEmailAddress",
       "tags" : [
 
@@ -141,7 +141,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "sonraki butonu",
       "id" : "buttonNextButton",
       "tags" : [
 
@@ -151,7 +151,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "tamam butonu",
       "id" : "buttonOk",
       "tags" : [
 
@@ -161,7 +161,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "gizlilik koşulları butonu",
       "id" : "buttonPrivacyPolicy",
       "tags" : [
 
@@ -171,7 +171,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "kayıt ol butonu",
       "id" : "buttonRegisterButton",
       "tags" : [
 
@@ -181,7 +181,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "doğrulama kodu gönderme butonu - otp kod",
       "id" : "buttonSendOtpCode",
       "tags" : [
 
@@ -191,7 +191,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "doğrulama kodunu tekrar gönder butonu - otp send again",
       "id" : "buttonSendOtpCodeAgain",
       "tags" : [
 
@@ -201,7 +201,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "şifre sıfırlama maili butonu",
       "id" : "buttonSendResetPasswordMail",
       "tags" : [
 
@@ -211,7 +211,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "ayarlar butonu",
       "id" : "buttonSettings",
       "tags" : [
 
@@ -221,7 +221,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "email ile giriş yap butonu",
       "id" : "buttonSignInWithEmail",
       "tags" : [
 
@@ -231,7 +231,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "google ile giriş yap butonu",
       "id" : "buttonSignInWithGoogle",
       "tags" : [
 
@@ -241,7 +241,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "kullanım koşulları butonu",
       "id" : "buttonTerms",
       "tags" : [
 
@@ -251,7 +251,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "dene butonu",
       "id" : "buttonTry",
       "tags" : [
 
@@ -261,7 +261,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "güncelleme butonu",
       "id" : "buttonUpdate",
       "tags" : [
 
@@ -271,7 +271,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "numara doğrula butonu",
       "id" : "buttonValidatePhoneNumber",
       "tags" : [
 
@@ -281,7 +281,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "uygulama ayarları butonu",
       "id" : "debugSettingsAppSettings",
       "tags" : [
 
@@ -291,7 +291,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "debug - kopyalamak için tıklayın ",
       "id" : "debugSettingsClickForCopy",
       "tags" : [
 
@@ -301,7 +301,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "debug - uygulama ayarlarını açmak için tıkla",
       "id" : "debugSettingsClickForOpenAppSettings",
       "tags" : [
 
@@ -311,7 +311,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "debug - geliştirici ayarları",
       "id" : "debugSettingsClickForOpenDeveloperSettings",
       "tags" : [
 
@@ -321,7 +321,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "debug - geliştirici ayarı",
       "id" : "debugSettingsDeveloperSettings",
       "tags" : [
 
@@ -331,7 +331,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "debug - firebase token",
       "id" : "debugSettingsFirebaseToken",
       "tags" : [
 
@@ -341,7 +341,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "debug - sunucu adresi",
       "id" : "debugSettingsHostUrl",
       "tags" : [
 
@@ -351,7 +351,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "debug - toolbar title",
       "id" : "debugSettingsToolbarTitle",
       "tags" : [
 
@@ -361,7 +361,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "internet yok hatası",
       "id" : "networkConnectionCheck",
       "tags" : [
 
@@ -371,7 +371,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "internet yok hatası",
       "id" : "noConnectivityException",
       "tags" : [
 
@@ -381,7 +381,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "bakım modu açıklaması",
       "id" : "repairModeDescription",
       "tags" : [
 
@@ -391,7 +391,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "bakım modu başlığı",
       "id" : "repairModeTitle",
       "tags" : [
 
@@ -401,7 +401,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "genel hata mesajı",
       "id" : "somethingWentWrong",
       "tags" : [
 
@@ -411,7 +411,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "Genel başarılı mesajı",
       "id" : "success",
       "tags" : [
 
@@ -421,7 +421,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "dinamik tarih - gün önce",
       "id" : "timeFilterDayAgo",
       "tags" : [
 
@@ -431,7 +431,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "dinamik tarih - saat önce",
       "id" : "timeFilterHourAgo",
       "tags" : [
 
@@ -441,7 +441,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "dinamik tarih - dakika önce",
       "id" : "timeFilterMinuteAgo",
       "tags" : [
 
@@ -451,7 +451,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "dinamik tarih - ay önce",
       "id" : "timeFilterMonthAgo",
       "tags" : [
 
@@ -461,7 +461,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "dinamik tarih - hafta önce",
       "id" : "timeFilterWeekAgo",
       "tags" : [
 
@@ -471,7 +471,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "dinamik tarih - yıl önce",
       "id" : "timeFilterYearAgo",
       "tags" : [
 
@@ -481,7 +481,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "şu an",
       "id" : "timeJustNow",
       "tags" : [
 
@@ -491,7 +491,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "Güncelleme mesajı",
       "id" : "updateAvailableMessage",
       "tags" : [
 
@@ -501,7 +501,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "Güncelleme başlığı",
       "id" : "updateAvailableTitle",
       "tags" : [
 
@@ -511,7 +511,7 @@
       }
     },
     {
-      "description" : "",
+      "description" : "uyarı",
       "id" : "warning",
       "tags" : [
 
@@ -531,7 +531,7 @@
   "meta" : {
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
-    "updatedAt" : "2025-11-21T08:46:41Z"
+    "updatedAt" : "2025-11-21T09:59:33Z"
   },
   "projectId" : "footwordle_mobile",
   "projectName" : "Footwordle"
