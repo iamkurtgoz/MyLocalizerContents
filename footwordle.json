@@ -7,7 +7,7 @@
 
       ],
       "translations" : {
-        "tr" : "Bu izin yetkilendirmesi zaten mevcut - Test"
+        "tr" : "Bu izin yetkilendirmesi zaten mevcut - test"
       }
     },
     {
@@ -1271,7 +1271,7 @@
   "meta" : {
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
-    "updatedAt" : "2025-11-21T07:36:36Z"
+    "updatedAt" : "2025-11-21T07:38:41Z"
   },
   "projectId" : "footwordle",
   "projectName" : "Footwordle"
