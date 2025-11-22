@@ -531,13 +531,23 @@
       }
     },
     {
-      "description" : "Başarısız istek response",
+      "description" : "errorRequestNotSuccessException",
       "id" : "errorRequestNotSuccessException",
       "tags" : [
 
       ],
       "translations" : {
-        "tr" : "İstek başarısız oldu. Lütfen tekrar deneyin."
+        "tr" : "errorRequestNotSuccessException"
+      }
+    },
+    {
+      "description" : "Hatalı istek",
+      "id" : "errorBodyException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "Hatalı istek gönderildi. Lütfen tekrar deneyin."
       }
     }
   ],
@@ -551,7 +561,7 @@
   "meta" : {
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
-    "updatedAt" : "2025-11-22T20:19:43Z"
+    "updatedAt" : "2025-11-22T20:21:29Z"
   },
   "projectId" : "footwordle_mobile",
   "projectName" : "Footwordle"
