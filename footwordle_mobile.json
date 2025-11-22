@@ -519,6 +519,26 @@
       "translations" : {
         "tr" : "Uyarı"
       }
+    },
+    {
+      "description" : "İstek sonucu başarısız oldu. Lütfen tekrar deneyin.",
+      "id" : "nullableException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İstek sonucu başarısız oldu. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "Başarısız istek response",
+      "id" : "errorRequestNotSuccessException",
+      "tags" : [
+
+      ],
+      "translations" : {
+        "tr" : "İstek başarısız oldu. Lütfen tekrar deneyin."
+      }
     }
   ],
   "languages" : [
@@ -531,7 +551,7 @@
   "meta" : {
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
-    "updatedAt" : "2025-11-21T10:11:02Z"
+    "updatedAt" : "2025-11-22T20:19:43Z"
   },
   "projectId" : "footwordle_mobile",
   "projectName" : "Footwordle"
