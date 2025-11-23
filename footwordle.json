@@ -5,7 +5,8 @@
       "id" : "anyErrorMessage",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "Bir şeyler ters gitti"
@@ -16,7 +17,8 @@
       "id" : "appName",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "FootWordle"
@@ -445,7 +447,8 @@
       "id" : "somethingWentWrong",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "Bir şeyler ters gitti. Lütfen tekrar deneyin."
@@ -456,10 +459,11 @@
       "id" : "success",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
-        "tr" : "Success"
+        "tr" : "Başarılı"
       }
     },
     {
@@ -467,7 +471,8 @@
       "id" : "timeFilterDayAgo",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "%d gün önce"
@@ -478,7 +483,8 @@
       "id" : "timeFilterHourAgo",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "%d saat önce"
@@ -489,7 +495,8 @@
       "id" : "timeFilterMinuteAgo",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "%d dakika önce"
@@ -500,7 +507,8 @@
       "id" : "timeFilterMonthAgo",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "%d ay önce"
@@ -511,7 +519,8 @@
       "id" : "timeFilterWeekAgo",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "%d hafta önce"
@@ -522,7 +531,8 @@
       "id" : "timeFilterYearAgo",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "%d yıl önce"
@@ -533,7 +543,8 @@
       "id" : "timeJustNow",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "Az önce"
@@ -544,7 +555,8 @@
       "id" : "updateAvailableMessage",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "Lütfen devam etmek için uygulamayı güncelleyin"
@@ -555,7 +567,8 @@
       "id" : "updateAvailableTitle",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "Güncelleme Mevcut"
@@ -566,7 +579,8 @@
       "id" : "warning",
       "tags" : [
         "android",
-        "ios"
+        "ios",
+        "backend"
       ],
       "translations" : {
         "tr" : "Uyarı"
@@ -646,16 +660,6 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı adı zaten kayıtlı"
-      }
-    },
-    {
-      "description" : "",
-      "id" : "anyErrorMessage",
-      "tags" : [
-        "backend"
-      ],
-      "translations" : {
-        "tr" : "Bir şeyler ters gitti"
       }
     },
     {
@@ -1200,16 +1204,6 @@
     },
     {
       "description" : "",
-      "id" : "somethingWentWrong",
-      "tags" : [
-        "backend"
-      ],
-      "translations" : {
-        "tr" : "Bir şeyler ters gitti. Lütfen tekrar deneyin."
-      }
-    },
-    {
-      "description" : "",
       "id" : "storageSpaceErrorException",
       "tags" : [
         "backend"
@@ -1337,16 +1331,6 @@
       "translations" : {
         "tr" : "Kullanıcı giriş kodunun süresi doldu"
       }
-    },
-    {
-      "description" : "",
-      "id" : "warning",
-      "tags" : [
-        "backend"
-      ],
-      "translations" : {
-        "tr" : "Uyarı"
-      }
     }
   ],
   "languages" : [
@@ -1360,7 +1344,7 @@
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
     "sortOrder" : "Last Modified",
-    "updatedAt" : "2025-11-23T14:43:20Z"
+    "updatedAt" : "2025-11-23T14:53:49Z"
   },
   "projectId" : "footwordle",
   "projectName" : "Footwordle"
