@@ -561,7 +561,8 @@
   "meta" : {
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
-    "updatedAt" : "2025-11-22T20:21:29Z"
+    "sortOrder" : "Last Modified",
+    "updatedAt" : "2025-11-23T14:23:13Z"
   },
   "projectId" : "footwordle_mobile",
   "projectName" : "Footwordle"
