@@ -1,6 +1,7 @@
 {
   "keys" : [
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Herhangi bir hata mesajı için kullanılır.",
       "id" : "anyErrorMessage",
       "tags" : [
@@ -10,9 +11,11 @@
       ],
       "translations" : {
         "tr" : "Bir şeyler ters gitti"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Uygulama adı",
       "id" : "appName",
       "tags" : [
@@ -22,9 +25,11 @@
       ],
       "translations" : {
         "tr" : "FootWordle"
-      }
+      },
+      "updatedAt" : "2025-11-23T17:06:36Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Geri butonu",
       "id" : "buttonBackButton",
       "tags" : [
@@ -33,9 +38,11 @@
       ],
       "translations" : {
         "tr" : "Önceki"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Kamera",
       "id" : "buttonCameraButtonTitle",
       "tags" : [
@@ -44,9 +51,11 @@
       ],
       "translations" : {
         "tr" : "Kamera"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "iptal butonu",
       "id" : "buttonCancel",
       "tags" : [
@@ -55,9 +64,11 @@
       ],
       "translations" : {
         "tr" : "İptal"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "devam butonu",
       "id" : "buttonContinue",
       "tags" : [
@@ -66,9 +77,11 @@
       ],
       "translations" : {
         "tr" : "Devam Et"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "facebook ile devam et butonu",
       "id" : "buttonContinueWithFacebookAccount",
       "tags" : [
@@ -77,9 +90,11 @@
       ],
       "translations" : {
         "tr" : "Facebook ile devam edin"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "google ile devam et butonu",
       "id" : "buttonContinueWithGoogleAccount",
       "tags" : [
@@ -88,9 +103,11 @@
       ],
       "translations" : {
         "tr" : "Google ile devam edin"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "keşfet butonu",
       "id" : "buttonDiscoverApplication",
       "tags" : [
@@ -99,9 +116,11 @@
       ],
       "translations" : {
         "tr" : "Uygulamayı Keşfet"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "bitir butonu",
       "id" : "buttonFinish",
       "tags" : [
@@ -110,9 +129,11 @@
       ],
       "translations" : {
         "tr" : "Bitir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "galeri butonu",
       "id" : "buttonGalleryButtonTitle",
       "tags" : [
@@ -121,9 +142,11 @@
       ],
       "translations" : {
         "tr" : "Galeri"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "hemen başla butonu",
       "id" : "buttonLetsStartNow",
       "tags" : [
@@ -132,9 +155,11 @@
       ],
       "translations" : {
         "tr" : "Hemen Başlayalım"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "giriş yap butonu",
       "id" : "buttonLoginButton",
       "tags" : [
@@ -143,9 +168,11 @@
       ],
       "translations" : {
         "tr" : "Giriş Yap"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "email ile giriş yap butonu",
       "id" : "buttonLoginWithEmailAddress",
       "tags" : [
@@ -154,9 +181,11 @@
       ],
       "translations" : {
         "tr" : "E-mail adresinle giriş yap"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "sonraki butonu",
       "id" : "buttonNextButton",
       "tags" : [
@@ -165,9 +194,11 @@
       ],
       "translations" : {
         "tr" : "Sonraki"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "tamam butonu",
       "id" : "buttonOk",
       "tags" : [
@@ -176,9 +207,11 @@
       ],
       "translations" : {
         "tr" : "Tamam"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "gizlilik koşulları butonu",
       "id" : "buttonPrivacyPolicy",
       "tags" : [
@@ -187,9 +220,11 @@
       ],
       "translations" : {
         "tr" : "Gizlilik Koşulları"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "kayıt ol butonu",
       "id" : "buttonRegisterButton",
       "tags" : [
@@ -198,9 +233,11 @@
       ],
       "translations" : {
         "tr" : "Kayıt Ol"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "doğrulama kodu gönderme butonu - otp kod",
       "id" : "buttonSendOtpCode",
       "tags" : [
@@ -209,9 +246,11 @@
       ],
       "translations" : {
         "tr" : "Doğrulama Kodu Gönder"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "doğrulama kodunu tekrar gönder butonu - otp send again",
       "id" : "buttonSendOtpCodeAgain",
       "tags" : [
@@ -220,9 +259,11 @@
       ],
       "translations" : {
         "tr" : "Kodu Yeniden Gönder"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "şifre sıfırlama maili butonu",
       "id" : "buttonSendResetPasswordMail",
       "tags" : [
@@ -231,9 +272,11 @@
       ],
       "translations" : {
         "tr" : "Sıfırlama Maili Gönder"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "ayarlar butonu",
       "id" : "buttonSettings",
       "tags" : [
@@ -242,9 +285,11 @@
       ],
       "translations" : {
         "tr" : "Ayarlar"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "email ile giriş yap butonu",
       "id" : "buttonSignInWithEmail",
       "tags" : [
@@ -253,9 +298,11 @@
       ],
       "translations" : {
         "tr" : "Email ile Giriş Yap"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "google ile giriş yap butonu",
       "id" : "buttonSignInWithGoogle",
       "tags" : [
@@ -264,9 +311,11 @@
       ],
       "translations" : {
         "tr" : "Google ile Giriş Yap"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "kullanım koşulları butonu",
       "id" : "buttonTerms",
       "tags" : [
@@ -275,9 +324,11 @@
       ],
       "translations" : {
         "tr" : "Kullanım koşulları"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "dene butonu",
       "id" : "buttonTry",
       "tags" : [
@@ -286,9 +337,11 @@
       ],
       "translations" : {
         "tr" : "Dene"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "güncelleme butonu",
       "id" : "buttonUpdate",
       "tags" : [
@@ -297,9 +350,11 @@
       ],
       "translations" : {
         "tr" : "Güncelle"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "numara doğrula butonu",
       "id" : "buttonValidatePhoneNumber",
       "tags" : [
@@ -308,9 +363,11 @@
       ],
       "translations" : {
         "tr" : "Numaranı Doğrula"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "uygulama ayarları butonu",
       "id" : "debugSettingsAppSettings",
       "tags" : [
@@ -319,9 +376,11 @@
       ],
       "translations" : {
         "tr" : "Uygulama Ayarları"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "debug - kopyalamak için tıklayın ",
       "id" : "debugSettingsClickForCopy",
       "tags" : [
@@ -330,9 +389,11 @@
       ],
       "translations" : {
         "tr" : "Kopyalamak için tıklayın"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "debug - uygulama ayarlarını açmak için tıkla",
       "id" : "debugSettingsClickForOpenAppSettings",
       "tags" : [
@@ -341,9 +402,11 @@
       ],
       "translations" : {
         "tr" : "Uygulama ayarlarını açmak için tıklayın"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "debug - geliştirici ayarları",
       "id" : "debugSettingsClickForOpenDeveloperSettings",
       "tags" : [
@@ -352,9 +415,11 @@
       ],
       "translations" : {
         "tr" : "Geliştirici ayarlarını açmak için tıklayın"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "debug - geliştirici ayarı",
       "id" : "debugSettingsDeveloperSettings",
       "tags" : [
@@ -363,9 +428,11 @@
       ],
       "translations" : {
         "tr" : "Geliştirici Ayarları"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "debug - firebase token",
       "id" : "debugSettingsFirebaseToken",
       "tags" : [
@@ -374,9 +441,11 @@
       ],
       "translations" : {
         "tr" : "Firebase Token"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "debug - sunucu adresi",
       "id" : "debugSettingsHostUrl",
       "tags" : [
@@ -385,9 +454,11 @@
       ],
       "translations" : {
         "tr" : "Sunucu Adresi"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "debug - toolbar title",
       "id" : "debugSettingsToolbarTitle",
       "tags" : [
@@ -396,9 +467,11 @@
       ],
       "translations" : {
         "tr" : "Debug Ayarları"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "internet yok hatası",
       "id" : "networkConnectionCheck",
       "tags" : [
@@ -407,9 +480,11 @@
       ],
       "translations" : {
         "tr" : "Bağlantı hatası. Lütfen bağlantınızı kontrol edin!"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "internet yok hatası",
       "id" : "noConnectivityException",
       "tags" : [
@@ -418,9 +493,11 @@
       ],
       "translations" : {
         "tr" : "İnternet bağlantısı bulunamadı. Lütfen bağlantınızı kontrol edin."
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "bakım modu açıklaması",
       "id" : "repairModeDescription",
       "tags" : [
@@ -429,9 +506,11 @@
       ],
       "translations" : {
         "tr" : "Uygulamada bazı değişiklikler yapıyoruz veya test ediyoruz. Anlayışınız için teşekkürler. Lütfen daha sonra tekrar deneyin."
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "bakım modu başlığı",
       "id" : "repairModeTitle",
       "tags" : [
@@ -440,9 +519,11 @@
       ],
       "translations" : {
         "tr" : "Bakımdayız.."
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "genel hata mesajı",
       "id" : "somethingWentWrong",
       "tags" : [
@@ -452,9 +533,11 @@
       ],
       "translations" : {
         "tr" : "Bir şeyler ters gitti. Lütfen tekrar deneyin."
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Genel başarılı mesajı",
       "id" : "success",
       "tags" : [
@@ -464,9 +547,11 @@
       ],
       "translations" : {
         "tr" : "Başarılı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "dinamik tarih - gün önce",
       "id" : "timeFilterDayAgo",
       "tags" : [
@@ -476,9 +561,11 @@
       ],
       "translations" : {
         "tr" : "%d gün önce"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "dinamik tarih - saat önce",
       "id" : "timeFilterHourAgo",
       "tags" : [
@@ -488,9 +575,11 @@
       ],
       "translations" : {
         "tr" : "%d saat önce"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "dinamik tarih - dakika önce",
       "id" : "timeFilterMinuteAgo",
       "tags" : [
@@ -500,9 +589,11 @@
       ],
       "translations" : {
         "tr" : "%d dakika önce"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "dinamik tarih - ay önce",
       "id" : "timeFilterMonthAgo",
       "tags" : [
@@ -512,9 +603,11 @@
       ],
       "translations" : {
         "tr" : "%d ay önce"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "dinamik tarih - hafta önce",
       "id" : "timeFilterWeekAgo",
       "tags" : [
@@ -524,9 +617,11 @@
       ],
       "translations" : {
         "tr" : "%d hafta önce"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "dinamik tarih - yıl önce",
       "id" : "timeFilterYearAgo",
       "tags" : [
@@ -536,9 +631,11 @@
       ],
       "translations" : {
         "tr" : "%d yıl önce"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "şu an",
       "id" : "timeJustNow",
       "tags" : [
@@ -548,9 +645,11 @@
       ],
       "translations" : {
         "tr" : "Az önce"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Güncelleme mesajı",
       "id" : "updateAvailableMessage",
       "tags" : [
@@ -560,9 +659,11 @@
       ],
       "translations" : {
         "tr" : "Lütfen devam etmek için uygulamayı güncelleyin"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Güncelleme başlığı",
       "id" : "updateAvailableTitle",
       "tags" : [
@@ -572,9 +673,11 @@
       ],
       "translations" : {
         "tr" : "Güncelleme Mevcut"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "uyarı",
       "id" : "warning",
       "tags" : [
@@ -584,9 +687,11 @@
       ],
       "translations" : {
         "tr" : "Uyarı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "İstek sonucu başarısız oldu. Lütfen tekrar deneyin.",
       "id" : "nullableException",
       "tags" : [
@@ -596,9 +701,11 @@
       ],
       "translations" : {
         "tr" : "İstek sonucu başarısız oldu. Lütfen tekrar deneyin."
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Balarısız istek hatası",
       "id" : "errorRequestNotSuccessException",
       "tags" : [
@@ -608,9 +715,11 @@
       ],
       "translations" : {
         "tr" : "İstek başarısız oldu"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "Hatalı istek",
       "id" : "errorBodyException",
       "tags" : [
@@ -620,9 +729,11 @@
       ],
       "translations" : {
         "tr" : "Hatalı istek gönderildi. Lütfen tekrar deneyin."
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "alreadyExistPermissionGrantException",
       "tags" : [
@@ -630,9 +741,11 @@
       ],
       "translations" : {
         "tr" : "Bu izin yetkilendirmesi zaten mevcut"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "alreadyExistResetPasswordCodeException",
       "tags" : [
@@ -640,9 +753,11 @@
       ],
       "translations" : {
         "tr" : "Şifre sıfırlama kodu zaten mevcut"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "alreadyExistsEmailException",
       "tags" : [
@@ -650,9 +765,11 @@
       ],
       "translations" : {
         "tr" : "E-posta zaten kayıtlı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "alreadyExistsUserNameException",
       "tags" : [
@@ -660,9 +777,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı adı zaten kayıtlı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "emailAddressNotMatchedException",
       "tags" : [
@@ -670,9 +789,11 @@
       ],
       "translations" : {
         "tr" : "E-posta adresi hesabınızla eşleşmiyor"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "fileCouldNotBeCreatedException",
       "tags" : [
@@ -680,9 +801,11 @@
       ],
       "translations" : {
         "tr" : "Dosya oluşturulamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "forbiddenException",
       "tags" : [
@@ -690,9 +813,11 @@
       ],
       "translations" : {
         "tr" : "İzniniz yok"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "incorrectPasswordConfirmation",
       "tags" : [
@@ -700,9 +825,11 @@
       ],
       "translations" : {
         "tr" : "Şifre uyuşmadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "incorrectPasswordOrEmailException",
       "tags" : [
@@ -710,9 +837,11 @@
       ],
       "translations" : {
         "tr" : "Şifre veya e-posta hatalı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "incorrectUserLoginGenericCodeException",
       "tags" : [
@@ -720,9 +849,11 @@
       ],
       "translations" : {
         "tr" : "Giriş kodu hatalı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidCreatedDateException",
       "tags" : [
@@ -730,9 +861,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz oluşturulma tarihi"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidEmailException",
       "tags" : [
@@ -740,9 +873,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz e-posta adresi"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidFileNameException",
       "tags" : [
@@ -750,9 +885,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz dosya adı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidLocalizationValueException",
       "tags" : [
@@ -760,9 +897,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz yerelleştirme değeri"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidMimeTypeException",
       "tags" : [
@@ -770,9 +909,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz MIME türü"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidPasswordException",
       "tags" : [
@@ -780,9 +921,11 @@
       ],
       "translations" : {
         "tr" : "Şifre yanlış"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidResetPasswordCodeException",
       "tags" : [
@@ -790,9 +933,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz şifre sıfırlama kodu"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidUpdatedDateException",
       "tags" : [
@@ -800,9 +945,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz güncelleme tarihi"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidUploadMediaFileMaxCountException",
       "tags" : [
@@ -810,9 +957,11 @@
       ],
       "translations" : {
         "tr" : "Yüklenebilecek maksimum medya dosyası sayısı aşıldı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidUploadMediaFileMaxSizeException",
       "tags" : [
@@ -820,9 +969,11 @@
       ],
       "translations" : {
         "tr" : "Yüklenebilecek maksimum medya dosyası boyutu aşıldı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidUserInformationNameException",
       "tags" : [
@@ -830,9 +981,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz kullanıcı bilgi adı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "invalidUserNameException",
       "tags" : [
@@ -840,9 +993,11 @@
       ],
       "translations" : {
         "tr" : "Geçersiz kullanıcı adı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "methodNotAllowed",
       "tags" : [
@@ -850,9 +1005,11 @@
       ],
       "translations" : {
         "tr" : "Bu yönteme izin verilmiyor"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundAccessTokenException",
       "tags" : [
@@ -860,9 +1017,11 @@
       ],
       "translations" : {
         "tr" : "Token bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundBlobFileException",
       "tags" : [
@@ -870,9 +1029,11 @@
       ],
       "translations" : {
         "tr" : "Blob dosyası bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundBucketNameException",
       "tags" : [
@@ -880,9 +1041,11 @@
       ],
       "translations" : {
         "tr" : "Bucket adı bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundClientException",
       "tags" : [
@@ -890,9 +1053,11 @@
       ],
       "translations" : {
         "tr" : "İstemci bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundEmailException",
       "tags" : [
@@ -900,9 +1065,11 @@
       ],
       "translations" : {
         "tr" : "E-posta bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundEnumerationItemException",
       "tags" : [
@@ -910,9 +1077,11 @@
       ],
       "translations" : {
         "tr" : "Sıralama öğesi bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundException",
       "tags" : [
@@ -920,9 +1089,11 @@
       ],
       "translations" : {
         "tr" : "Bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundFileContentException",
       "tags" : [
@@ -930,9 +1101,11 @@
       ],
       "translations" : {
         "tr" : "Dosya içeriği bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundIpAddressException",
       "tags" : [
@@ -940,9 +1113,11 @@
       ],
       "translations" : {
         "tr" : "Ip adres bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundMediaFileException",
       "tags" : [
@@ -950,9 +1125,11 @@
       ],
       "translations" : {
         "tr" : "Medya dosyası bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundPasswordResetCodeException",
       "tags" : [
@@ -960,9 +1137,11 @@
       ],
       "translations" : {
         "tr" : "Şifre sıfırlama kodu bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundPermissionException",
       "tags" : [
@@ -970,9 +1149,11 @@
       ],
       "translations" : {
         "tr" : "İzin bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundPermissionGrantException",
       "tags" : [
@@ -980,9 +1161,11 @@
       ],
       "translations" : {
         "tr" : "İzin yetkilendirmesi bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundRefreshTokenException",
       "tags" : [
@@ -990,9 +1173,11 @@
       ],
       "translations" : {
         "tr" : "Yenileme token bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundRoleException",
       "tags" : [
@@ -1000,9 +1185,11 @@
       ],
       "translations" : {
         "tr" : "Rol bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundSettingException",
       "tags" : [
@@ -1010,9 +1197,11 @@
       ],
       "translations" : {
         "tr" : "Ayar bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundUserException",
       "tags" : [
@@ -1020,9 +1209,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundUserLoginWithEmailGenericCodeException",
       "tags" : [
@@ -1030,9 +1221,11 @@
       ],
       "translations" : {
         "tr" : "E-posta giriş kodu bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notFoundUserNameException",
       "tags" : [
@@ -1040,9 +1233,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı adı bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "notMatchAccessTokenException",
       "tags" : [
@@ -1050,9 +1245,11 @@
       ],
       "translations" : {
         "tr" : "Yenileme token eşleşme hatası"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "nullException",
       "tags" : [
@@ -1060,9 +1257,11 @@
       ],
       "translations" : {
         "tr" : "Bulunamadı"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredAccessTokenException",
       "tags" : [
@@ -1070,9 +1269,11 @@
       ],
       "translations" : {
         "tr" : "Token gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredEmailException",
       "tags" : [
@@ -1080,9 +1281,11 @@
       ],
       "translations" : {
         "tr" : "E-posta gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredPasswordException",
       "tags" : [
@@ -1090,9 +1293,11 @@
       ],
       "translations" : {
         "tr" : "Şifre gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredPasswordSaltException",
       "tags" : [
@@ -1100,9 +1305,11 @@
       ],
       "translations" : {
         "tr" : "Şifre salt değeri gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredPermissionTypeException",
       "tags" : [
@@ -1110,9 +1317,11 @@
       ],
       "translations" : {
         "tr" : "İzin türü gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredRoleCodeException",
       "tags" : [
@@ -1120,9 +1329,11 @@
       ],
       "translations" : {
         "tr" : "Rol kodu gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredRoleException",
       "tags" : [
@@ -1130,9 +1341,11 @@
       ],
       "translations" : {
         "tr" : "Rol gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredUploadFileItemException",
       "tags" : [
@@ -1140,9 +1353,11 @@
       ],
       "translations" : {
         "tr" : "Yüklenecek dosya gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredUserException",
       "tags" : [
@@ -1150,9 +1365,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredUserNameException",
       "tags" : [
@@ -1160,9 +1377,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı adı gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredUserPermissionException",
       "tags" : [
@@ -1170,9 +1389,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı izni gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "requiredUserRoleException",
       "tags" : [
@@ -1180,9 +1401,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı rolü gereklidir"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "resetPasswordCodeExpiredException",
       "tags" : [
@@ -1190,9 +1413,11 @@
       ],
       "translations" : {
         "tr" : "Şifre sıfırlama kodunun süresi doldu"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "settingsKeyAlreadyExistException",
       "tags" : [
@@ -1200,9 +1425,11 @@
       ],
       "translations" : {
         "tr" : "Ayar anahtarı zaten mevcut"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "storageSpaceErrorException",
       "tags" : [
@@ -1210,9 +1437,11 @@
       ],
       "translations" : {
         "tr" : "Depolama hizmeti hatası"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "tooLongPasswordException",
       "tags" : [
@@ -1220,9 +1449,11 @@
       ],
       "translations" : {
         "tr" : "Şifre çok uzun"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "tooLongPasswordResetCodeException",
       "tags" : [
@@ -1230,9 +1461,11 @@
       ],
       "translations" : {
         "tr" : "Şifre sıfırlama kodu çok uzun"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "tooLongRoleCodeException",
       "tags" : [
@@ -1240,9 +1473,11 @@
       ],
       "translations" : {
         "tr" : "Rol kodu çok uzun"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "tooLongUserLoginWithEmailGenericCodeException",
       "tags" : [
@@ -1250,9 +1485,11 @@
       ],
       "translations" : {
         "tr" : "E-posta giriş kodu çok uzun"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "tooShortPasswordException",
       "tags" : [
@@ -1260,9 +1497,11 @@
       ],
       "translations" : {
         "tr" : "Şifre çok kısa"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "tooShortPasswordResetCodeException",
       "tags" : [
@@ -1270,9 +1509,11 @@
       ],
       "translations" : {
         "tr" : "Şifre sıfırlama kodu çok kısa"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "tooShortUserLoginWithEmailGenericCodeException",
       "tags" : [
@@ -1280,9 +1521,11 @@
       ],
       "translations" : {
         "tr" : "E-posta giriş kodu çok kısa"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "unsupportedMediaFileTypeException",
       "tags" : [
@@ -1290,9 +1533,11 @@
       ],
       "translations" : {
         "tr" : "Desteklenmeyen medya dosya türü"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "userBlockedException",
       "tags" : [
@@ -1300,9 +1545,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı engellendi"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "userCreditNotEnoughException",
       "tags" : [
@@ -1310,9 +1557,11 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı kredisi yetersiz"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
+      "createdAt" : "2025-11-23T15:51:02Z",
       "description" : "",
       "id" : "userIsNotActiveException",
       "tags" : [
@@ -1320,17 +1569,20 @@
       ],
       "translations" : {
         "tr" : "Kullanıcı aktif değil"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     },
     {
-      "description" : "",
+      "createdAt" : "2025-11-23T15:51:02Z",
+      "description" : "Giriş kodu expired oldu",
       "id" : "userLoginGenericCodeExpiredException",
       "tags" : [
         "backend"
       ],
       "translations" : {
         "tr" : "Kullanıcı giriş kodunun süresi doldu"
-      }
+      },
+      "updatedAt" : "2025-11-23T15:51:02Z"
     }
   ],
   "languages" : [
@@ -1344,7 +1596,7 @@
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
     "sortOrder" : "Last Modified",
-    "updatedAt" : "2025-11-23T14:56:53Z"
+    "updatedAt" : "2025-11-23T17:10:41Z"
   },
   "projectId" : "footwordle",
   "projectName" : "Footwordle"
