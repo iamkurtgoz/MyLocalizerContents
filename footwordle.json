@@ -1,0 +1,1367 @@
+{
+  "keys" : [
+    {
+      "description" : "Herhangi bir hata mesajı için kullanılır.",
+      "id" : "anyErrorMessage",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Bir şeyler ters gitti"
+      }
+    },
+    {
+      "description" : "Uygulama adı",
+      "id" : "appName",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "FootWordle"
+      }
+    },
+    {
+      "description" : "Geri butonu",
+      "id" : "buttonBackButton",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Önceki"
+      }
+    },
+    {
+      "description" : "Kamera",
+      "id" : "buttonCameraButtonTitle",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Kamera"
+      }
+    },
+    {
+      "description" : "iptal butonu",
+      "id" : "buttonCancel",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "İptal"
+      }
+    },
+    {
+      "description" : "devam butonu",
+      "id" : "buttonContinue",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Devam Et"
+      }
+    },
+    {
+      "description" : "facebook ile devam et butonu",
+      "id" : "buttonContinueWithFacebookAccount",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Facebook ile devam edin"
+      }
+    },
+    {
+      "description" : "google ile devam et butonu",
+      "id" : "buttonContinueWithGoogleAccount",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Google ile devam edin"
+      }
+    },
+    {
+      "description" : "keşfet butonu",
+      "id" : "buttonDiscoverApplication",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Uygulamayı Keşfet"
+      }
+    },
+    {
+      "description" : "bitir butonu",
+      "id" : "buttonFinish",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Bitir"
+      }
+    },
+    {
+      "description" : "galeri butonu",
+      "id" : "buttonGalleryButtonTitle",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Galeri"
+      }
+    },
+    {
+      "description" : "hemen başla butonu",
+      "id" : "buttonLetsStartNow",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Hemen Başlayalım"
+      }
+    },
+    {
+      "description" : "giriş yap butonu",
+      "id" : "buttonLoginButton",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Giriş Yap"
+      }
+    },
+    {
+      "description" : "email ile giriş yap butonu",
+      "id" : "buttonLoginWithEmailAddress",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "E-mail adresinle giriş yap"
+      }
+    },
+    {
+      "description" : "sonraki butonu",
+      "id" : "buttonNextButton",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Sonraki"
+      }
+    },
+    {
+      "description" : "tamam butonu",
+      "id" : "buttonOk",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Tamam"
+      }
+    },
+    {
+      "description" : "gizlilik koşulları butonu",
+      "id" : "buttonPrivacyPolicy",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Gizlilik Koşulları"
+      }
+    },
+    {
+      "description" : "kayıt ol butonu",
+      "id" : "buttonRegisterButton",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Kayıt Ol"
+      }
+    },
+    {
+      "description" : "doğrulama kodu gönderme butonu - otp kod",
+      "id" : "buttonSendOtpCode",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Doğrulama Kodu Gönder"
+      }
+    },
+    {
+      "description" : "doğrulama kodunu tekrar gönder butonu - otp send again",
+      "id" : "buttonSendOtpCodeAgain",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Kodu Yeniden Gönder"
+      }
+    },
+    {
+      "description" : "şifre sıfırlama maili butonu",
+      "id" : "buttonSendResetPasswordMail",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Sıfırlama Maili Gönder"
+      }
+    },
+    {
+      "description" : "ayarlar butonu",
+      "id" : "buttonSettings",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Ayarlar"
+      }
+    },
+    {
+      "description" : "email ile giriş yap butonu",
+      "id" : "buttonSignInWithEmail",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Email ile Giriş Yap"
+      }
+    },
+    {
+      "description" : "google ile giriş yap butonu",
+      "id" : "buttonSignInWithGoogle",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Google ile Giriş Yap"
+      }
+    },
+    {
+      "description" : "kullanım koşulları butonu",
+      "id" : "buttonTerms",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Kullanım koşulları"
+      }
+    },
+    {
+      "description" : "dene butonu",
+      "id" : "buttonTry",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Dene"
+      }
+    },
+    {
+      "description" : "güncelleme butonu",
+      "id" : "buttonUpdate",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Güncelle"
+      }
+    },
+    {
+      "description" : "numara doğrula butonu",
+      "id" : "buttonValidatePhoneNumber",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Numaranı Doğrula"
+      }
+    },
+    {
+      "description" : "uygulama ayarları butonu",
+      "id" : "debugSettingsAppSettings",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Uygulama Ayarları"
+      }
+    },
+    {
+      "description" : "debug - kopyalamak için tıklayın ",
+      "id" : "debugSettingsClickForCopy",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Kopyalamak için tıklayın"
+      }
+    },
+    {
+      "description" : "debug - uygulama ayarlarını açmak için tıkla",
+      "id" : "debugSettingsClickForOpenAppSettings",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Uygulama ayarlarını açmak için tıklayın"
+      }
+    },
+    {
+      "description" : "debug - geliştirici ayarları",
+      "id" : "debugSettingsClickForOpenDeveloperSettings",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Geliştirici ayarlarını açmak için tıklayın"
+      }
+    },
+    {
+      "description" : "debug - geliştirici ayarı",
+      "id" : "debugSettingsDeveloperSettings",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Geliştirici Ayarları"
+      }
+    },
+    {
+      "description" : "debug - firebase token",
+      "id" : "debugSettingsFirebaseToken",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Firebase Token"
+      }
+    },
+    {
+      "description" : "debug - sunucu adresi",
+      "id" : "debugSettingsHostUrl",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Sunucu Adresi"
+      }
+    },
+    {
+      "description" : "debug - toolbar title",
+      "id" : "debugSettingsToolbarTitle",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Debug Ayarları"
+      }
+    },
+    {
+      "description" : "internet yok hatası",
+      "id" : "networkConnectionCheck",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Bağlantı hatası. Lütfen bağlantınızı kontrol edin!"
+      }
+    },
+    {
+      "description" : "internet yok hatası",
+      "id" : "noConnectivityException",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "İnternet bağlantısı bulunamadı. Lütfen bağlantınızı kontrol edin."
+      }
+    },
+    {
+      "description" : "bakım modu açıklaması",
+      "id" : "repairModeDescription",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Uygulamada bazı değişiklikler yapıyoruz veya test ediyoruz. Anlayışınız için teşekkürler. Lütfen daha sonra tekrar deneyin."
+      }
+    },
+    {
+      "description" : "bakım modu başlığı",
+      "id" : "repairModeTitle",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Bakımdayız.."
+      }
+    },
+    {
+      "description" : "genel hata mesajı",
+      "id" : "somethingWentWrong",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "Genel başarılı mesajı",
+      "id" : "success",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Success"
+      }
+    },
+    {
+      "description" : "dinamik tarih - gün önce",
+      "id" : "timeFilterDayAgo",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "%d gün önce"
+      }
+    },
+    {
+      "description" : "dinamik tarih - saat önce",
+      "id" : "timeFilterHourAgo",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "%d saat önce"
+      }
+    },
+    {
+      "description" : "dinamik tarih - dakika önce",
+      "id" : "timeFilterMinuteAgo",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "%d dakika önce"
+      }
+    },
+    {
+      "description" : "dinamik tarih - ay önce",
+      "id" : "timeFilterMonthAgo",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "%d ay önce"
+      }
+    },
+    {
+      "description" : "dinamik tarih - hafta önce",
+      "id" : "timeFilterWeekAgo",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "%d hafta önce"
+      }
+    },
+    {
+      "description" : "dinamik tarih - yıl önce",
+      "id" : "timeFilterYearAgo",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "%d yıl önce"
+      }
+    },
+    {
+      "description" : "şu an",
+      "id" : "timeJustNow",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Az önce"
+      }
+    },
+    {
+      "description" : "Güncelleme mesajı",
+      "id" : "updateAvailableMessage",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Lütfen devam etmek için uygulamayı güncelleyin"
+      }
+    },
+    {
+      "description" : "Güncelleme başlığı",
+      "id" : "updateAvailableTitle",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Güncelleme Mevcut"
+      }
+    },
+    {
+      "description" : "uyarı",
+      "id" : "warning",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Uyarı"
+      }
+    },
+    {
+      "description" : "İstek sonucu başarısız oldu. Lütfen tekrar deneyin.",
+      "id" : "nullableException",
+      "tags" : [
+        "android",
+        "ios",
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "İstek sonucu başarısız oldu. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "Balarısız istek hatası",
+      "id" : "errorRequestNotSuccessException",
+      "tags" : [
+        "android",
+        "ios",
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "İstek başarısız oldu"
+      }
+    },
+    {
+      "description" : "Hatalı istek",
+      "id" : "errorBodyException",
+      "tags" : [
+        "android",
+        "ios",
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Hatalı istek gönderildi. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "alreadyExistPermissionGrantException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Bu izin yetkilendirmesi zaten mevcut"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "alreadyExistResetPasswordCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodu zaten mevcut"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "alreadyExistsEmailException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "E-posta zaten kayıtlı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "alreadyExistsUserNameException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı adı zaten kayıtlı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "anyErrorMessage",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Bir şeyler ters gitti"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "emailAddressNotMatchedException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "E-posta adresi hesabınızla eşleşmiyor"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "fileCouldNotBeCreatedException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Dosya oluşturulamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "forbiddenException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "İzniniz yok"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "incorrectPasswordConfirmation",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre uyuşmadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "incorrectPasswordOrEmailException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre veya e-posta hatalı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "incorrectUserLoginGenericCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Giriş kodu hatalı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidCreatedDateException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz oluşturulma tarihi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidEmailException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz e-posta adresi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidFileNameException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz dosya adı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidLocalizationValueException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz yerelleştirme değeri"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidMimeTypeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz MIME türü"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidPasswordException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre yanlış"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidResetPasswordCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz şifre sıfırlama kodu"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUpdatedDateException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz güncelleme tarihi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUploadMediaFileMaxCountException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Yüklenebilecek maksimum medya dosyası sayısı aşıldı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUploadMediaFileMaxSizeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Yüklenebilecek maksimum medya dosyası boyutu aşıldı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUserInformationNameException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz kullanıcı bilgi adı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "invalidUserNameException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Geçersiz kullanıcı adı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "methodNotAllowed",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Bu yönteme izin verilmiyor"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundAccessTokenException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Token bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundBlobFileException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Blob dosyası bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundBucketNameException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Bucket adı bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundClientException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "İstemci bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundEmailException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "E-posta bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundEnumerationItemException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Sıralama öğesi bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundFileContentException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Dosya içeriği bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundIpAddressException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Ip adres bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundMediaFileException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Medya dosyası bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundPasswordResetCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodu bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundPermissionException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "İzin bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundPermissionGrantException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "İzin yetkilendirmesi bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundRefreshTokenException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Yenileme token bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundRoleException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Rol bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundSettingException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Ayar bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundUserException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundUserLoginWithEmailGenericCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "E-posta giriş kodu bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notFoundUserNameException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı adı bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "notMatchAccessTokenException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Yenileme token eşleşme hatası"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "nullException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Bulunamadı"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredAccessTokenException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Token gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredEmailException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "E-posta gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredPasswordException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredPasswordSaltException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre salt değeri gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredPermissionTypeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "İzin türü gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredRoleCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Rol kodu gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredRoleException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Rol gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUploadFileItemException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Yüklenecek dosya gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUserException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUserNameException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı adı gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUserPermissionException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı izni gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "requiredUserRoleException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı rolü gereklidir"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "resetPasswordCodeExpiredException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodunun süresi doldu"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "settingsKeyAlreadyExistException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Ayar anahtarı zaten mevcut"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "somethingWentWrong",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+      }
+    },
+    {
+      "description" : "",
+      "id" : "storageSpaceErrorException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Depolama hizmeti hatası"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooLongPasswordException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre çok uzun"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooLongPasswordResetCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodu çok uzun"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooLongRoleCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Rol kodu çok uzun"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooLongUserLoginWithEmailGenericCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "E-posta giriş kodu çok uzun"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooShortPasswordException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre çok kısa"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooShortPasswordResetCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Şifre sıfırlama kodu çok kısa"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "tooShortUserLoginWithEmailGenericCodeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "E-posta giriş kodu çok kısa"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "unsupportedMediaFileTypeException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Desteklenmeyen medya dosya türü"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "userBlockedException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı engellendi"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "userCreditNotEnoughException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı kredisi yetersiz"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "userIsNotActiveException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı aktif değil"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "userLoginGenericCodeExpiredException",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Kullanıcı giriş kodunun süresi doldu"
+      }
+    },
+    {
+      "description" : "",
+      "id" : "warning",
+      "tags" : [
+        "backend"
+      ],
+      "translations" : {
+        "tr" : "Uyarı"
+      }
+    }
+  ],
+  "languages" : [
+    {
+      "code" : "tr",
+      "isDefault" : true,
+      "name" : "Turkish"
+    }
+  ],
+  "meta" : {
+    "createdAt" : "2025-11-20T18:11:02Z",
+    "defaultLanguageCode" : "tr",
+    "sortOrder" : "Last Modified",
+    "updatedAt" : "2025-11-23T14:43:20Z"
+  },
+  "projectId" : "footwordle",
+  "projectName" : "Footwordle"
+}
