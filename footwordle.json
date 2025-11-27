@@ -17165,6 +17165,19 @@
         "tr" : "Skor: %d"
       },
       "updatedAt" : "2025-11-27T20:56:41Z"
+    },
+    {
+      "createdAt" : "2025-11-27T20:57:21Z",
+      "description" : "Seviye bilgisi seviyesi sayısı ile",
+      "id" : "levelWithArgument",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Seviye: %d\/%d"
+      },
+      "updatedAt" : "2025-11-27T20:57:33Z"
     }
   ],
   "languages" : [
@@ -17178,7 +17191,7 @@
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
     "sortOrder" : "Last Modified",
-    "updatedAt" : "2025-11-27T20:56:41Z"
+    "updatedAt" : "2025-11-27T20:57:33Z"
   },
   "projectId" : "footwordle",
   "projectName" : "Footwordle"
