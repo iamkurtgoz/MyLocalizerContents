@@ -17139,6 +17139,19 @@
         "tr" : "Atla"
       },
       "updatedAt" : "2025-11-26T21:34:25Z"
+    },
+    {
+      "createdAt" : "2025-11-27T20:41:00Z",
+      "description" : "Geçmiş Oyunlar",
+      "id" : "gameHistoryTitle",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "Geçmiş Oyunlar"
+      },
+      "updatedAt" : "2025-11-27T20:41:07Z"
     }
   ],
   "languages" : [
@@ -17152,7 +17165,7 @@
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
     "sortOrder" : "Last Modified",
-    "updatedAt" : "2025-11-26T21:34:25Z"
+    "updatedAt" : "2025-11-27T20:41:07Z"
   },
   "projectId" : "footwordle",
   "projectName" : "Footwordle"
