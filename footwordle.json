@@ -17178,6 +17178,45 @@
         "tr" : "Seviye: %d\/%d"
       },
       "updatedAt" : "2025-11-27T20:57:33Z"
+    },
+    {
+      "createdAt" : "2025-11-27T21:07:12Z",
+      "description" : "Oyun başlamamış",
+      "id" : "userGameStatusTypeNotYetStarted",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Oyun Başlamadı"
+      },
+      "updatedAt" : "2025-11-27T21:07:19Z"
+    },
+    {
+      "createdAt" : "2025-11-27T21:07:40Z",
+      "description" : "devam ediyor",
+      "id" : "userGameStatusTypeContinues",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "Oyun Devam Ediyor"
+      },
+      "updatedAt" : "2025-11-27T21:07:45Z"
+    },
+    {
+      "createdAt" : "2025-11-27T21:08:00Z",
+      "description" : "oyun bitti",
+      "id" : "userGameStatusTypeFinished",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Oyun Bitti"
+      },
+      "updatedAt" : "2025-11-27T21:08:03Z"
     }
   ],
   "languages" : [
@@ -17191,7 +17230,7 @@
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
     "sortOrder" : "Last Modified",
-    "updatedAt" : "2025-11-27T20:57:33Z"
+    "updatedAt" : "2025-11-27T21:08:03Z"
   },
   "projectId" : "footwordle",
   "projectName" : "Footwordle"
