@@ -17282,6 +17282,123 @@
         "tr" : "Tam İsabet 🎉"
       },
       "updatedAt" : "2025-11-30T05:35:38Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:42:43Z",
+      "description" : "Özet",
+      "id" : "gameLevelSuccessSummary",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "Oyun Özeti"
+      },
+      "updatedAt" : "2025-11-30T05:42:49Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:43:37Z",
+      "description" : "Tahmin",
+      "id" : "gameLevelSuccessSummaryGuess",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "Tahmin"
+      },
+      "updatedAt" : "2025-11-30T05:45:16Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:45:37Z",
+      "description" : "Tam isim",
+      "id" : "gameLevelSuccessSummaryFullName",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "Tam İsim"
+      },
+      "updatedAt" : "2025-11-30T05:45:46Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:46:37Z",
+      "description" : "kullanılan ipucu sayısı",
+      "id" : "gameLevelSuccessSummaryUsedHintCount",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "İpucu Sayısı"
+      },
+      "updatedAt" : "2025-11-30T05:46:42Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:47:09Z",
+      "description" : "kazanılan puan",
+      "id" : "gameLevelSuccessSummaryPointsWon",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Kazanılan Puan"
+      },
+      "updatedAt" : "2025-11-30T05:47:15Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:47:36Z",
+      "description" : "kazanılan coin",
+      "id" : "gameLevelSuccessSummaryCoinsWon",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Kazanılan Coin"
+      },
+      "updatedAt" : "2025-11-30T05:47:45Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:48:02Z",
+      "description" : "kazanılan elmas",
+      "id" : "gameLevelSuccessSummaryDiamondWon",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Kazanılan Elmas"
+      },
+      "updatedAt" : "2025-11-30T05:48:08Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:48:45Z",
+      "description" : "2 katı kazan",
+      "id" : "buttonEarnTwice",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "2X Kazan"
+      },
+      "updatedAt" : "2025-11-30T05:48:49Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:49:06Z",
+      "description" : "sonraki seviye",
+      "id" : "buttonNextLevel",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Oyuna Devam Et"
+      },
+      "updatedAt" : "2025-11-30T05:49:14Z"
     }
   ],
   "languages" : [
@@ -17295,7 +17412,7 @@
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
     "sortOrder" : "Last Modified",
-    "updatedAt" : "2025-11-30T05:35:41Z"
+    "updatedAt" : "2025-11-30T05:49:14Z"
   },
   "projectId" : "footwordle",
   "projectName" : "Footwordle"
