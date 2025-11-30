@@ -17217,6 +17217,71 @@
         "tr" : "Oyun Bitti"
       },
       "updatedAt" : "2025-11-27T21:08:03Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:33:39Z",
+      "description" : "Tebrikler",
+      "id" : "gameLevelSuccessTitleFirst",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Tebrikler 🎉"
+      },
+      "updatedAt" : "2025-11-30T05:34:57Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:33:59Z",
+      "description" : "Harika İş Çıkardın",
+      "id" : "gameLevelSuccessTitleSecond",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Harika İş Çıkardın 🎉"
+      },
+      "updatedAt" : "2025-11-30T05:35:06Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:34:06Z",
+      "description" : "Seviye Tamam",
+      "id" : "gameLevelSuccessTitleThird",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "Seviye Tamam 🎉"
+      },
+      "updatedAt" : "2025-11-30T05:35:11Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:34:14Z",
+      "description" : "Kutlama Zamanı!",
+      "id" : "gameLevelSuccessTitleFourth",
+      "tags" : [
+        "ios",
+        "android"
+      ],
+      "translations" : {
+        "tr" : "Kutlama Zamanı! 🎉"
+      },
+      "updatedAt" : "2025-11-30T05:34:48Z"
+    },
+    {
+      "createdAt" : "2025-11-30T05:34:22Z",
+      "description" : "Tam İsabet",
+      "id" : "gameLevelSuccessTitleFifth",
+      "tags" : [
+        "android",
+        "ios"
+      ],
+      "translations" : {
+        "tr" : "Tam İsabet 🎉"
+      },
+      "updatedAt" : "2025-11-30T05:35:38Z"
     }
   ],
   "languages" : [
@@ -17230,7 +17295,7 @@
     "createdAt" : "2025-11-20T18:11:02Z",
     "defaultLanguageCode" : "tr",
     "sortOrder" : "Last Modified",
-    "updatedAt" : "2025-11-27T21:08:03Z"
+    "updatedAt" : "2025-11-30T05:35:41Z"
   },
   "projectId" : "footwordle",
   "projectName" : "Footwordle"
